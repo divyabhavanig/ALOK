@@ -6,7 +6,7 @@ Despite the progress in machine learning, a critical bottleneck remains in the e
 
 The effectiveness of ALOK's approach is demonstrated through its performance metrics. For instance, initial training on full datasets yielded significant results, with the app achieving a high degree of accuracy in text recognition and object detection. By leveraging active learning, ALOK optimizes the labeling process, resulting in more efficient training with a reduced number of samples. This method not only enhances the model’s accuracy but also minimizes the data labeling effort, showcasing active learning as a powerful technique for improving machine learning applications in accessibility technology.
 
-![image](https://github.com/user-attachments/assets/06c465d4-29b8-4153-9ac0-e1a9c9996c9f)<br>
-![image](https://github.com/user-attachments/assets/915930e5-2e99-4b43-acbb-67459dbf9369)<br>
-![image](https://github.com/user-attachments/assets/e59e41c6-561a-40b9-a81e-80da7d4989d6)<br>
+![image](https://github.com/user-attachments/assets/06c465d4-29b8-4153-9ac0-e1a9c9996c9f)
+![image](https://github.com/user-attachments/assets/915930e5-2e99-4b43-acbb-67459dbf9369)
+![image](https://github.com/user-attachments/assets/e59e41c6-561a-40b9-a81e-80da7d4989d6)
 
